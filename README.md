@@ -13,3 +13,5 @@ This script does the following:
 2. Descriptively names activities in the data set
 4. Labels the data set with descriptive variable names 
 5. Creates a second, tidy data set
+
+See the code book for further details.
