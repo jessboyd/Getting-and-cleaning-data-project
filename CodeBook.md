@@ -15,14 +15,14 @@ A tidy data set was produced which contains the means for all the variables that
 The variables are described below. 
 
 ## Variable meanings 
-Subject: An identifier of the subject who carried out the experiment. Its range is from 1 to 30.
-Activity: The activity label. Ranges from 1 to 6. The real meanings are as follows:
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+Subject: An identifier of the subject who carried out the experiment. Its range is from 1 to 30.<br />
+Activity: The activity label. Ranges from 1 to 6. The real meanings are as follows:<br />
+1 WALKING<br />
+2 WALKING_UPSTAIRS<br />
+3 WALKING_DOWNSTAIRS<br />
+4 SITTING<br />
+5 STANDING<br />
+6 LAYING<br />
 
 The tidy data set contains the mean average of each of the following variables per subject, per activity:
 
