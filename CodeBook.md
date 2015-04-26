@@ -26,69 +26,69 @@ Activity: The activity label. Ranges from 1 to 6. The real meanings are as follo
 
 The tidy data set contains the mean average of each of the following variables per subject, per activity:
 
-BodyAccelerationMeanXdirection: Mean body acceleration in the X direction of the device. 
-BodyAccelerationMeanYdirection: Mean body acceleration in the Y direction of the device.
-BodyAccelerationMeanZdirection: Mean body acceleration in the Z direction of the device.
-BodyAccelerationStandardDeviationXdirection: Standard deviation of body acceleration in the X direction of the device.
-BodyAccelerationStandardDeviationYdirection: Standard deviation of body acceleration in the Y direction of the device.
-BodyAccelerationStandardDeviationZdirection: Standard deviation of body acceleration in the X direction of the device.
-GravityAccelerationMeanXdirection: Mean gravity acceleration in the X direction.
-GravityAccelerationMeanYdirection: Mean gravity acceleration in the Y direction.
-GravityAccelerationMeanZdirection: Mean gravity acceleration in the Z direction.
-GravityAccelerationStandardDeviationXdirection: Standard deviation of gravity acceleration in the X direction.
-GravityAccelerationStandardDeviationYdirection: Standard deviation of gravity acceleration in the Y direction.
-GravityAccelerationStandardDeviationZdirection: Standard deviation of gravity acceleration in the Z direction.
-BodyAccelerationJerkMeanXdirection: Mean of body acceleration jerk in the X direction.
-BodyAccelerationJerkMeanYdirection: Mean of body acceleration jerk in the Y direction.
-BodyAccelerationJerkMeanZdirection: Mean of body acceleration jerk in the Z direction.
-BodyAccelerationJerkStandardDeviationXdirection: Standard deviation of body acceleration jerk in the X direction.
-BodyAccelerationJerkStandardDeviationYdirection: Standard deviation of body acceleration jerk in the Y direction.
-BodyAccelerationJerkStandardDeviationZdirection: Standard deviation of body acceleration jerk in the Z direction.
-BodyGyroMeanXdirection: Mean of the body gyro in the X direction.
-BodyGyroMeanYdirection: Mean of the body gyro in the Y direction.
-BodyGyroMeanZdirection: Mean of the body gyro in the Z direction.
-BodyGyroStandardDeviationXdirection: Standard deviation of the body gyro in the X direction.
-BodyGyroStandardDeviationYdirection: Standard deviation of the body gyro in the Y direction.
-BodyGyroStandardDeviationZdirection: Standard deviation of the body gyro in the Z direction.
-BodyGyroJerkMeanXdirection: Mean of the body gyro jerk in the X direction. 
-BodyGyroJerkMeanYdirection: Mean of the body gyro jerk in the Y direction. 
-BodyGyroJerkMeanZdirection: Mean of the body gyro jerk in the Z direction. 
-BodyGyroJerkStandardDeviationXdirection: Standard deviation of the body gyro jerk in the X direction. 
-BodyGyroJerkStandardDeviationYdirection: Standard deviation of the body gyro jerk in the Y direction. 
-BodyGyroJerkStandardDeviationZdirection: Standard deviation of the body gyro jerk in the Z direction. 
-BodyAccelerationMagMean: Mean of the body acceleration magnitude. 
-BodyAccelerationMagStandardDeviation: Standard deviation of the body acceleration magnitude. 
-GravityAccelerationMagMean: Mean of the gravity acceleration magnitude. 
-GravityAccelerationMagStandardDeviation: Standard deviation of the gravity acceleration magnitude
-BodyAccelerationJerkMagMean: : Mean of the body acceleration magnitude.
-BodyAccelerationJerkMagStandardDeviation: Standard deviation of the gravity acceleration magnitude.
-BodyGyroMagMean: Mean of the body gyro magnitude. 
-BodyGyroMagStandardDeviation: Standard deviation of the body gyro magnitude. 
-BodyGyroJerkMagMean: Mean of the body jerk magnitude. 
-BodyGyroJerkMagStandardDeviation: Standard deviation of the body jerk magnitude. 
-BodyAccelerationMeanXdirection: Mean body acceleration in the X direction of the device. 
-BodyAccelerationMeanYdirection: Mean body acceleration in the Y direction of the device.
-BodyAccelerationMeanZdirection: Mean body acceleration in the Z direction of the device.
-BodyAccelerationStandardDeviationXdirection: Standard deviation of body acceleration in the X direction of the device.
-BodyAccelerationStandardDeviationYdirection: Standard deviation of body acceleration in the Y direction of the device.
-BodyAccelerationStandardDeviationZdirection: Standard deviation of body acceleration in the X direction of the device.
-BodyAccelerationJerkMeanXdirection: Mean of body acceleration jerk in the X direction.
-BodyAccelerationJerkMeanYdirection: Mean of body acceleration jerk in the Y direction.
-BodyAccelerationJerkMeanZdirection: Mean of body acceleration jerk in the Z direction.
-BodyAccelerationJerkStandardDeviationXdirection: Standard deviation of body acceleration jerk in the X direction.
-BodyAccelerationJerkStandardDeviationYdirection: Standard deviation of body acceleration jerk in the Y direction.
-BodyAccelerationJerkStandardDeviationZdirection: Standard deviation of body acceleration jerk in the Z direction.
-BodyGyroMeanXdirection: Mean of the body gyro in the X direction.
-BodyGyroMeanYdirection: Mean of the body gyro in the Y direction.
-BodyGyroMeanZdirection: Mean of the body gyro in the Z direction.
-BodyGyroStandardDeviationXdirection: Standard deviation of the body gyro in the X direction.
-BodyGyroStandardDeviationYdirection: Standard deviation of the body gyro in the Y direction.
-BodyGyroStandardDeviationZdirection: Standard deviation of the body gyro in the Z direction.
-BodyAccelerationMagMean: Mean of the body acceleration magnitude. 
-BodyAccelerationMagStandardDeviation: Standard deviation of the body acceleration magnitude. 
-BodyBodyAccelerationJerkMagMean: Mean of the body acceleration jerk magnitude. 
-BodyBodyAccelerationJerkMagStandardDeviation: Standard deviation of the body acceleration jerk magnitude. 
-BodyBodyGyroMagMean: Mean of the body gyro magnitude. 
-BodyBodyGyroMagStandardDeviation: Standard deviation of the body gyro magnitude.
-BodyBodyGyroJerkMagMean: Mean of the body gyro jerk magnitude.
-BodyBodyGyroJerkMagStandardDeviation: Standard deviation of the body gyro jerk magnitude.
+BodyAccelerationMeanXdirection: Mean body acceleration in the X direction of the device. <br />
+BodyAccelerationMeanYdirection: Mean body acceleration in the Y direction of the device.<br />
+BodyAccelerationMeanZdirection: Mean body acceleration in the Z direction of the device.<br />
+BodyAccelerationStandardDeviationXdirection: Standard deviation of body acceleration in the X direction of the device.<br />
+BodyAccelerationStandardDeviationYdirection: Standard deviation of body acceleration in the Y direction of the device.<br />
+BodyAccelerationStandardDeviationZdirection: Standard deviation of body acceleration in the X direction of the device.<br />
+GravityAccelerationMeanXdirection: Mean gravity acceleration in the X direction.<br />
+GravityAccelerationMeanYdirection: Mean gravity acceleration in the Y direction.<br />
+GravityAccelerationMeanZdirection: Mean gravity acceleration in the Z direction.<br />
+GravityAccelerationStandardDeviationXdirection: Standard deviation of gravity acceleration in the X direction.<br />
+GravityAccelerationStandardDeviationYdirection: Standard deviation of gravity acceleration in the Y direction.<br />
+GravityAccelerationStandardDeviationZdirection: Standard deviation of gravity acceleration in the Z direction.<br />
+BodyAccelerationJerkMeanXdirection: Mean of body acceleration jerk in the X direction.<br />
+BodyAccelerationJerkMeanYdirection: Mean of body acceleration jerk in the Y direction.<br />
+BodyAccelerationJerkMeanZdirection: Mean of body acceleration jerk in the Z direction.<br />
+BodyAccelerationJerkStandardDeviationXdirection: Standard deviation of body acceleration jerk in the X direction.<br />
+BodyAccelerationJerkStandardDeviationYdirection: Standard deviation of body acceleration jerk in the Y direction.<br />
+BodyAccelerationJerkStandardDeviationZdirection: Standard deviation of body acceleration jerk in the Z direction.<br />
+BodyGyroMeanXdirection: Mean of the body gyro in the X direction.<br />
+BodyGyroMeanYdirection: Mean of the body gyro in the Y direction.<br />
+BodyGyroMeanZdirection: Mean of the body gyro in the Z direction.<br />
+BodyGyroStandardDeviationXdirection: Standard deviation of the body gyro in the X direction.<br />
+BodyGyroStandardDeviationYdirection: Standard deviation of the body gyro in the Y direction.<br />
+BodyGyroStandardDeviationZdirection: Standard deviation of the body gyro in the Z direction.<br />
+BodyGyroJerkMeanXdirection: Mean of the body gyro jerk in the X direction. <br />
+BodyGyroJerkMeanYdirection: Mean of the body gyro jerk in the Y direction. <br />
+BodyGyroJerkMeanZdirection: Mean of the body gyro jerk in the Z direction. <br />
+BodyGyroJerkStandardDeviationXdirection: Standard deviation of the body gyro jerk in the X direction. <br />
+BodyGyroJerkStandardDeviationYdirection: Standard deviation of the body gyro jerk in the Y direction. <br />
+BodyGyroJerkStandardDeviationZdirection: Standard deviation of the body gyro jerk in the Z direction. <br />
+BodyAccelerationMagMean: Mean of the body acceleration magnitude. <br />
+BodyAccelerationMagStandardDeviation: Standard deviation of the body acceleration magnitude. <br />
+GravityAccelerationMagMean: Mean of the gravity acceleration magnitude. <br />
+GravityAccelerationMagStandardDeviation: Standard deviation of the gravity acceleration magnitude<br />
+BodyAccelerationJerkMagMean: : Mean of the body acceleration magnitude.<br />
+BodyAccelerationJerkMagStandardDeviation: Standard deviation of the gravity acceleration magnitude.<br />
+BodyGyroMagMean: Mean of the body gyro magnitude. <br />
+BodyGyroMagStandardDeviation: Standard deviation of the body gyro magnitude. <br />
+BodyGyroJerkMagMean: Mean of the body jerk magnitude. <br />
+BodyGyroJerkMagStandardDeviation: Standard deviation of the body jerk magnitude. <br />
+BodyAccelerationMeanXdirection: Mean body acceleration in the X direction of the device.<br /> 
+BodyAccelerationMeanYdirection: Mean body acceleration in the Y direction of the device.<br />
+BodyAccelerationMeanZdirection: Mean body acceleration in the Z direction of the device.<br />
+BodyAccelerationStandardDeviationXdirection: Standard deviation of body acceleration in the X direction of the device.<br />
+BodyAccelerationStandardDeviationYdirection: Standard deviation of body acceleration in the Y direction of the device.<br />
+BodyAccelerationStandardDeviationZdirection: Standard deviation of body acceleration in the X direction of the device.<br />
+BodyAccelerationJerkMeanXdirection: Mean of body acceleration jerk in the X direction.<br />
+BodyAccelerationJerkMeanYdirection: Mean of body acceleration jerk in the Y direction.<br />
+BodyAccelerationJerkMeanZdirection: Mean of body acceleration jerk in the Z direction.<br />
+BodyAccelerationJerkStandardDeviationXdirection: Standard deviation of body acceleration jerk in the X direction.<br />
+BodyAccelerationJerkStandardDeviationYdirection: Standard deviation of body acceleration jerk in the Y direction.<br />
+BodyAccelerationJerkStandardDeviationZdirection: Standard deviation of body acceleration jerk in the Z direction.<br />
+BodyGyroMeanXdirection: Mean of the body gyro in the X direction.<br />
+BodyGyroMeanYdirection: Mean of the body gyro in the Y direction.<br />
+BodyGyroMeanZdirection: Mean of the body gyro in the Z direction.<br />
+BodyGyroStandardDeviationXdirection: Standard deviation of the body gyro in the X direction.<br />
+BodyGyroStandardDeviationYdirection: Standard deviation of the body gyro in the Y direction.<br />
+BodyGyroStandardDeviationZdirection: Standard deviation of the body gyro in the Z direction.<br />
+BodyAccelerationMagMean: Mean of the body acceleration magnitude. <br />
+BodyAccelerationMagStandardDeviation: Standard deviation of the body acceleration magnitude.<br /> 
+BodyBodyAccelerationJerkMagMean: Mean of the body acceleration jerk magnitude. <br />
+BodyBodyAccelerationJerkMagStandardDeviation: Standard deviation of the body acceleration jerk magnitude. <br />
+BodyBodyGyroMagMean: Mean of the body gyro magnitude. <br />
+BodyBodyGyroMagStandardDeviation: Standard deviation of the body gyro magnitude.<br />
+BodyBodyGyroJerkMagMean: Mean of the body gyro jerk magnitude.<br />
+BodyBodyGyroJerkMagStandardDeviation: Standard deviation of the body gyro jerk magnitude.<br />
